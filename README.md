@@ -1,5 +1,5 @@
 # Natural Disaster Prediction Model: PREDINA
-
+*Group project developed for a university course. My contribution included data cleaning, analysis, and reporting.*
 ## Overview
 
 This project, part of the IT362 - Principles of Data Science course, analyzes the patterns, financial impacts, and trends of natural disasters from 1900 to 2021. Our goal is to enhance disaster preparedness through data-driven insights.
